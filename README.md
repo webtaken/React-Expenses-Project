@@ -1,6 +1,6 @@
 # React project
 
-[![react](/imgs/react-logo.png)](https://reactstrap.github.io)
+<img src="./imgs/react-logo.png" alt="ReactJS" width="200" height="175"/>
 
 # Expenses Project
 
